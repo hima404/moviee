@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Movies\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Movies\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\downloads\\movies (1)\\movies\\movies\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:movies\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Movies\\Model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Forgot pass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Movies\\Login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Movies\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,22 +54,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Model1.edmx [Diagram1]",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Model1.edmx",
               "RelativeDocumentMoniker": "Movies\\Model1.edmx",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "Movies\\Model1.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Model1.edmx",
+              "RelativeToolTip": "Movies\\Model1.edmx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-11-15T12:27:04.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Forgot pass.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Forgot pass.xaml.cs",
               "RelativeDocumentMoniker": "Movies\\Forgot pass.xaml.cs",
@@ -77,36 +77,33 @@
               "RelativeToolTip": "Movies\\Forgot pass.xaml.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAQwCYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:09:21.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:09:21.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Admin.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Admin.xaml",
               "RelativeDocumentMoniker": "Movies\\Admin.xaml",
               "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Admin.xaml",
               "RelativeToolTip": "Movies\\Admin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T09:07:45.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:07:45.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Forgot pass.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Forgot pass.xaml",
               "RelativeDocumentMoniker": "Movies\\Forgot pass.xaml",
               "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Forgot pass.xaml",
               "RelativeToolTip": "Movies\\Forgot pass.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T09:06:28.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:06:28.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SignUp.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\SignUp.xaml.cs",
               "RelativeDocumentMoniker": "Movies\\SignUp.xaml.cs",
@@ -114,12 +111,11 @@
               "RelativeToolTip": "Movies\\SignUp.xaml.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAjwBcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:26:35.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:26:35.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Login.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Login.xaml.cs",
               "RelativeDocumentMoniker": "Movies\\Login.xaml.cs",
@@ -127,60 +123,57 @@
               "RelativeToolTip": "Movies\\Login.xaml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAASwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:19:14.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:19:14.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Movie_details.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Movie_details.xaml",
               "RelativeDocumentMoniker": "Movies\\Movie_details.xaml",
               "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Movie_details.xaml",
               "RelativeToolTip": "Movies\\Movie_details.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T09:05:55.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T09:05:55.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SignUp.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\SignUp.xaml",
               "RelativeDocumentMoniker": "Movies\\SignUp.xaml",
               "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\SignUp.xaml",
               "RelativeToolTip": "Movies\\SignUp.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T08:55:02.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T08:55:02.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Login.xaml",
               "RelativeDocumentMoniker": "Movies\\Login.xaml",
               "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\Login.xaml",
               "RelativeToolTip": "Movies\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T08:53:45.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T08:53:45.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Movies\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\MainWindow.xaml",
               "RelativeToolTip": "Movies\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-12T08:52:14.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\Movies (1)\\Movies\\Movies\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Movies\\MainWindow.xaml.cs",
